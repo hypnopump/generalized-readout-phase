@@ -2,7 +2,7 @@
 This is the code for the PrePrint **"[Improving Graph Property Prediction with Generalized Readout Functions]()"**
 
 
-* OGB-MolHiv dataset: 
+* OGB-MolHiv dataset (ROUC-AUC mean &#177; std): 
 
 | **HIMP+GenReadout (Ours)** | GraphNorm | HIMP | DeeperGCN | GIN+VirtualNodes |
 | :------------------------- | :-------: |:---: | :-------: | ---------------: | 
