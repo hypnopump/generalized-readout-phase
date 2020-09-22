@@ -11,3 +11,13 @@ This is the code for the PrePrint **"[Improving Graph Property Prediction with G
 
 ## Cite
 
+```
+@misc{alcaide2020improving,
+    title={Improving Graph Property Prediction with Generalized Readout Functions},
+    author={Eric Alcaide},
+    year={2020},
+    eprint={2009.09919},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG}
+}
+```
