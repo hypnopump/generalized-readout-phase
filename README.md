@@ -1,5 +1,9 @@
-# Generalized Readout Phase
-This is the code for the PrePrint **"[Improving Graph Property Prediction with Generalized Readout Functions]()"**
+# Generalized Readout Phase - DOES NOT WORK. 
+This was the code for the PrePrint **"[Improving Graph Property Prediction with Generalized Readout Functions]()"**
+
+
+**The experiments were not conducted appropiately (same protocol as the ones they were compared with). This results shouldn't be compared with the OGB Leaderboard. **
+
 
 
 * OGB-MolHiv dataset (ROUC-AUC mean &#177; std): 
