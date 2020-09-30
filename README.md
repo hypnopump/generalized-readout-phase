@@ -2,7 +2,7 @@
 This was the code for the PrePrint **"[Improving Graph Property Prediction with Generalized Readout Functions]()"**
 
 
-**The experiments were not conducted appropiately (same protocol as the ones they were compared with). This results shouldn't be compared with the OGB Leaderboard**
+**The experiments were not conducted appropiately (same protocol as the ones they were compared with). These results shouldn't be compared with the OGB Leaderboard**
 
 
 
